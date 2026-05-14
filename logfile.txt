@@ -1,0 +1,5 @@
+INFO Application started
+ERROR Database failed
+WARNING Disk almost full
+INFO User login
+ERROR Network issue

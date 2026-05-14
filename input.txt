@@ -1,0 +1,4 @@
+hello hadoop
+hello world
+hadoop world
+big data hadoop
